@@ -1,4 +1,4 @@
-# Projeto_Imers-o_AluraGoogle
+# Projeto_Imersao_AluraGoogle
 Projeto: Sistema Automatizado de Análise Empresarial
 
 Objetivo: Desenvolver um sistema automatizado que utiliza IA para gerar análises detalhadas de empresas, facilitando o processo de tomada de decisão estratégica para analistas e investidores.
